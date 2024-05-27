@@ -2,6 +2,8 @@
 
 Welcome to Sunshine Health! This is a Doctor Appointment Booking App designed to streamline the process of scheduling appointments with healthcare professionals. With MongoDB for flexible data handling, React and Ant Design for dynamic UI components, and Node.js with Express for a scalable server, Sunshine Health offers a robust solution for both users and administrators.
 
+![Sunshine Health dashboard](client/src/Assets/screenshot.png)
+
 ## Features
 
 - **Appointment Booking**: Users can easily schedule appointments with healthcare professionals through the webiste.
